@@ -1,4 +1,10 @@
-# making a dictionary and getting inputs from user and give him its meaning (Coder - Praveen Singh Chauhan)
+# making a dictionary and getting inputs from user and give him its meaning 
+# Problem given by Harry from Code with Harry Youtube Channel (HarisAK) 
+# Coder - Praveen Singh Chauhan (Technology Video Network - Youtube Channel , GAMP Aaryawarti Films - Film Production & Youtube Channel)
+# Link of Youtube - https://www.youtube.com/TechnologyVideoNetwork , https://www.youtube.com/gampaaryawartifilms
+# Facebook - https://www.facebook.com/praveen13c
+# Twitter - https://twitter.com/praveen13c , https://twitter.com/tvnutube 
+# Linkdin -  https://www.linkedin.com/in/impraveenchauhan
 
 d1 = {"abandoned": "something left alone",
       "mutable": "in python we can change value",
