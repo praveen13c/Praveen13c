@@ -1,6 +1,6 @@
 Hi,
 
-This is Praveen Singh Chauhan and I’m a creative person , hence doing coding again after long time. Previously i did in FoxPro Win n DOS and Visual Basic (frontend and backend).
+This is Praveen Singh Chauhan and I’m a creative person , hence doing coding again after long time. Previously i did in FoxPro Win n DOS and Visual Basic (frontend and backend), Now learning Coding on Python , JavaScript, HTML, CSS for WDD means Website Design and Development and app too , if needed . 
 
 but if you think that’s it I’m an artist too, Actor, Director, Music composer, Background Music, Editor, Writer, Producer, VFX and designer too along with Youtuber.
 
