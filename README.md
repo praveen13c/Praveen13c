@@ -1,4 +1,4 @@
-
+@@ -1,40 +1,41 @@
 <h1>Hi there, I am <a href="https://praveen13c.github.io" target="_blank">Praveen13c</a> 🙋🏽‍♂️</h1> 
 ![](https://visitor-badge.glitch.me/badge?page_id=praveen13c) 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -28,13 +28,6 @@ Twitter - 	https://twitter.com/praveen13c , https://twitter.com/tvnutube
 
 LinkedIn -  	https://www.linkedin.com/in/impraveenchauhan
 
-@@ -1,40 +1,41 @@
-<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Rohan</a> 🙋🏽‍♂️</h1> 
-![](https://visitor-badge.glitch.me/badge?page_id=rohandas28) 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-I'm an enthusiastic Techie and a Developer who loves to contribute to the Opensource Community. 
----
- ## My Skills :computer:
  **Languages and Frameworks**
  
  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"/>
