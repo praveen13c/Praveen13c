@@ -1,5 +1,14 @@
+
+<h1>Hi there, I am <a href="https://praveen13c.github.io" target="_blank">Praveen13c</a> 🙋🏽‍♂️</h1> 
+![](https://visitor-badge.glitch.me/badge?page_id=praveen13c) 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+I'm a Creative Techie and a Developer who loves to create . 
+---
+ ## My Skills :computer:
+
+
 ### Connect with Me
-[<img align="left" alt="Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohandas28.github.io) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/rohandas28) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/RohanDasRD) [<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/RohanDas28) [<img align="left" alt="YouTube -Rohan Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/RohanDasTech) [<img align="left" alt="Email -Rohan Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:rohandasbirbhum@gmail.com)
+[<img align="left" alt="Praveen Singh Chauhan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://praveen13c.github.io) [<img align="left" alt="Twitter - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/praveen13c) [<img align="left" alt="Instagram - praveen13c" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/praveen13c) [<img align="left" alt="LinkedIn - praveen13c" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/praveen13c) [<img align="left" alt="YouTube -praveen13c" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/TechnologyVideoNetwork) [<img align="left" alt="Email -praveen13c" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:praveen13cgmail.com)
 
 
 Hi,
