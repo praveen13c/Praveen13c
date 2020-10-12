@@ -16,10 +16,7 @@ but if you think that’s it I’m an artist too, Actor, Director, Music compose
 for more you can visit my YouTube channel and get acquaintance on social
 
 ---
-### Connect with Me
-[<img align="left" alt="Praveen Singh Chauhan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://praveen13c.github.io) [<img align="left" alt="Twitter - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/praveen13c) [<img align="left" alt="Instagram - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/praveemn13c) [<img align="left" alt="LinkedIn - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/praveen13c) [<img align="left" alt="YouTube -Technology Video Network" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/TechnologyVideoNetwork) [<img align="left" alt="Email -Praveen Singh Chauhan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:praveen13c@gmail.com)
 
----
 
  **Languages and Frameworks**
  
@@ -49,3 +46,9 @@ for more you can visit my YouTube channel and get acquaintance on social
 
 <img align="left" alt="praveen13c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveen13c&show_icons=true&hide_border=true&theme=radical" />
 0 comments o
+
+---
+
+### Connect with Me
+[<img align="left" alt="Praveen Singh Chauhan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://praveen13c.github.io) [<img align="left" alt="Twitter - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/twitter.svg" />](https://twitter.com/praveen13c) [<img align="left" alt="Instagram - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/instagram.svg" />](https://www.instagram.com/praveemn13c) [<img align="left" alt="LinkedIn - Praveen Singh Chauhan" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/praveen13c) [<img align="left" alt="YouTube -Technology Video Network" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/c/TechnologyVideoNetwork) [<img align="left" alt="Email -Praveen Singh Chauhan" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:praveen13c@gmail.com)
+---
