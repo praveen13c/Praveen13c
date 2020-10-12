@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=praveen13c)  
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align='right' src="https://giphy.com/stickers/eboy-computer-nerd-geek-2zeji2UedvZzvIZ45N" width="230">
+<img align='right' src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="230">
 
 I'm a Creative Techie and a Developer who loves to create . 
 ---
